@@ -1,1 +1,3 @@
+# BugDuck
 
+Welcome to BugDuck!
