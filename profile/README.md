@@ -1,6 +1,6 @@
 # BugDuck
 
-[![Funding](./funding.svg)](https://afdian.net/a/newcar)
+[![Funding](../funding.svg)](https://afdian.net/a/newcar)
 
 Welcome to BugDuck! We're a bunch of teen developers wanting to develop amazing softwares.
 
