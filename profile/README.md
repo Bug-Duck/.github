@@ -12,9 +12,10 @@ Check out our works below or leave us a comment in the issues!
 
 | name | link | descriptions |
 |  -   | -    |    -         |
-| newcar| [Here](https://github.com/dromara/newcar) | A modern animation engine for JavaScript ecosystem |
+| VueMotion | [Here](https://github.com/Bug-Duck/vuemotion) | The next-generation animation engine for VueJs Ecosystem. |
+| newcar | [Here](https://github.com/dromara/newcar) | A modern animation engine for JavaScript ecosystem. |
 | LLMVision | [Here](https://github.com/Bug-Duck/LLMVision) | A AI application which can generate animations based on Newcar animation engine. |
-| GitPro | [Here](https://github.com/Bug-Duck/gitpro) | A unoffical GitHub App |
+| GitPro | [Here](https://github.com/Bug-Duck/gitpro) | A unoffical GitHub App. |
 
 ## How to Join Us?
 
