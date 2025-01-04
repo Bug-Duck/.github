@@ -14,8 +14,8 @@ Check out our works below or leave us a comment in the issues!
 |  -   | -    |    -         |
 | VueMotion | [Here](https://github.com/Bug-Duck/vuemotion) | The next-generation animation engine for VueJs Ecosystem. |
 | newcar | [Here](https://github.com/dromara/newcar) | A modern animation engine for JavaScript ecosystem. |
-| Bijon | [Here](https://github.com/Bug-Duck/bijon) | Focus on the generation of demonstration animations for mathematics, statistics, etc. |
-| GitPro | [Here](https://github.com/Bug-Duck/gitpro) | A unoffical GitHub App. |
+| Bijon | [Here](https://github.com/BijonAI) | Focus on the generation of demonstration animations for mathematics, statistics, etc. |
+| Auf | [Here](https://github.com/auf-dev) | ⚡ A cross-platform and automated environment manager for developers. |
 
 ## How to Join Us?
 
