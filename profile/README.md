@@ -8,10 +8,11 @@ Our members are all from junior/senior high schools.
 
 Check out our works below or leave us a comment in the issues!
 
-## Our product
+## Our products
 
 | name | link | descriptions |
 |  -   | -    |    -         |
+| Eich | [Here](https://github.com/bug-duck/eich) | 🧩 Front-end-focused interactive content framework that allows you to create dynamic layouts and visualizations using a template-based XML-like syntax. It combines various front-end technologies and engines to enable the creation of rich, interactive content through a declarative approach. |
 | VueMotion | [Here](https://github.com/Bug-Duck/vuemotion) | The next-generation animation engine for VueJs Ecosystem. |
 | newcar | [Here](https://github.com/dromara/newcar) | A modern animation engine for JavaScript ecosystem. |
 | Bijon | [Here](https://github.com/BijonAI) | Focus on the generation of demonstration animations for mathematics, statistics, etc. |
